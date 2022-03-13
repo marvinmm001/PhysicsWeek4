@@ -1,0 +1,6 @@
+D:\0cmgt\TERM3\Physics\week4_trigonometry_and_rotation\Week2_Assignment_start\Week2_assignment_start\Tank\bin\Debug\Tank.exe
+D:\0cmgt\TERM3\Physics\week4_trigonometry_and_rotation\Week2_Assignment_start\Week2_assignment_start\Tank\bin\Debug\Tank.pdb
+D:\0cmgt\TERM3\Physics\week4_trigonometry_and_rotation\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.csproj.AssemblyReference.cache
+D:\0cmgt\TERM3\Physics\week4_trigonometry_and_rotation\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.csproj.CoreCompileInputs.cache
+D:\0cmgt\TERM3\Physics\week4_trigonometry_and_rotation\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.exe
+D:\0cmgt\TERM3\Physics\week4_trigonometry_and_rotation\Week2_Assignment_start\Week2_assignment_start\Tank\obj\x86\Debug\Tank.pdb
